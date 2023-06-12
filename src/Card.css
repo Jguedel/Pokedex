@@ -1,0 +1,17 @@
+.Card {
+  background-color: lightgray;
+  margin: 5px;
+  border-radius: 8px;
+  width: 150px;
+}
+img {
+  height: 100px;
+}
+p {
+  margin: 0px;
+}
+.pokeName {
+  padding-top: 2px;
+  color: blue;
+  font-weight: bold;
+}
